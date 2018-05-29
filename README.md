@@ -6,7 +6,7 @@
 
 * [Narek Hovhannisyan](https://www.facebook.com/narek.hovh) - [OCaml for the sceptics](http://renderforest-ocaml.surge.sh/)
 * [Khachatur Virabyan](https://twitter.com/kh_mugh) - [Reasonable React](http://renderforest-reason.surge.sh/)
-* [Nairi Harutyunyan](https://www.facebook.com/harutyunyan.nairi) - [Redux & RxJS](https://slides.com/nairi/deck#/)
+* [Nairi Harutyunyan](https://www.facebook.com/harutyunyan.nairi) - [Redux & RxJS](https://slides.com/nairihar/renderforest-meetup-2018#/)
 
 ### {Month} {Day}, {Year} at {someAwesomePlace}
 
